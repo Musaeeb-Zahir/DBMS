@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RapidCabApp", "RapidCabApp.csproj", "{B2E77B1C-8126-44B1-BB0C-FDDFAEEA3758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E77B1C-8126-44B1-BB0C-FDDFAEEA3758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E77B1C-8126-44B1-BB0C-FDDFAEEA3758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E77B1C-8126-44B1-BB0C-FDDFAEEA3758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E77B1C-8126-44B1-BB0C-FDDFAEEA3758}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6D3EA73-F4A9-42C6-8A77-4DED99D08766}
+	EndGlobalSection
+EndGlobal
